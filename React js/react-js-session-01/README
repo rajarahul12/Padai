@@ -1,0 +1,28 @@
+
+Filenames and what they are fors
+
+add_post_to_blog.js    -> JS code to dynamically add a paragraph to your static html
+
+comment_card.html      -> static HTML page for our comment card
+
+comments-app.zip       -> React.js app for our comments app
+
+imageapiserver.zip     -> server to generate different avatar images everytime you call it
+
+IMP_LINKS              -> duh?1
+
+index.html             -> minimal HTML code for blog post
+
+react_code_stage_1.js  -> code pen activity stage 1
+
+react_code_stage_2.js  -> code pen activity stage 2
+
+react_code_stage_3.js  -> code pen activity stage 3
+
+React.js tutorial.pptx -> duh?!
+
+README                 -> duh?! Inception.
+
+v1.js                  -> version1 of our React.js spinoff library
+
+v2.js                  -> version2 of our React.js spinoff library
